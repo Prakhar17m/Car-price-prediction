@@ -2,7 +2,8 @@
 
 A machine learning web application that predicts whether a person will purchase a car based on their annual salary. Built using Python, Flask, and a trained Artificial Neural Network (ANN) model.
 
-![App Screenshot](screenshots/app-preview.png)
+![App Screenshot](./p1 (1).png)
+![App Screenshot](./p1 (2).png)
 
 ## 🔗 Live Demo
 
