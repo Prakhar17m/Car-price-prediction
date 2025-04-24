@@ -7,7 +7,7 @@ A machine learning web application that predicts whether a person will purchase 
 
 ## 🔗 Live Demo
 
-👉 [view live](https://your-live-app-link.com)
+👉 [view live](https://car-price-prediction-2-g1ys.onrender.com/)
 
 ---
 
